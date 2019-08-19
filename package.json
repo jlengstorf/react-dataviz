@@ -13,6 +13,8 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
+    "d3": "^5.9.7",
+    "d3blackbox": "^1.2.0",
     "gatsby": "^2.13.67",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
